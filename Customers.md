@@ -115,10 +115,10 @@ for cluster in range(optimal_clusters):
 ### Example Output:
 
 #### Elbow Method Graph:
-![Elbow Method](https://i.imgur.com/3QZQZ.png)
+
 
 #### Clustering Visualization:
-![Clustering](https://i.imgur.com/4QZQZ.png)
+
 
 #### Cluster Insights:
 ```
