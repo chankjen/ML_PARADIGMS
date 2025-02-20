@@ -216,4 +216,4 @@ Ball reached the pocket at (4, 4) in 9 steps!
 
 ---
 
-This program is a simple yet effective demonstration of reinforcement learning. You can expand it by adding more features, such as obstacles on the table or multiple balls! Let me know if you need further assistance.
+This program is a simple yet effective demonstration of reinforcement learning. You can expand it by adding more features, such as obstacles on the table or multiple balls!
